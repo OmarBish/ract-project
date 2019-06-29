@@ -5453,9 +5453,9 @@ $(function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/omar/Desktop/Omar/React-native-workshop/project/laravel-5-boilerplate/resources/js/backend/before.js */"./resources/js/backend/before.js");
-__webpack_require__(/*! /home/omar/Desktop/Omar/React-native-workshop/project/laravel-5-boilerplate/resources/js/backend/app.js */"./resources/js/backend/app.js");
-module.exports = __webpack_require__(/*! /home/omar/Desktop/Omar/React-native-workshop/project/laravel-5-boilerplate/resources/js/backend/after.js */"./resources/js/backend/after.js");
+__webpack_require__(/*! /var/www/react-project/resources/js/backend/before.js */"./resources/js/backend/before.js");
+__webpack_require__(/*! /var/www/react-project/resources/js/backend/app.js */"./resources/js/backend/app.js");
+module.exports = __webpack_require__(/*! /var/www/react-project/resources/js/backend/after.js */"./resources/js/backend/after.js");
 
 
 /***/ })
